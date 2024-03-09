@@ -71,6 +71,13 @@ header {
 /* Header End */
 
 /* Main Starts */
+.title-button {
+  position: relative;
+}
+.title-button_icons {
+  position: absolute;
+  right: 12px;
+}
 main {
   background-color: rgb(192, 192, 192);
 }
@@ -83,6 +90,12 @@ main {
 }
 .card-img iframe {
   height: 320px;
+}
+.fa-arrow-up-right-from-square {
+  position: absolute;
+  font-size: 12px;
+  padding: 2px;
+  bottom: 23px;
 }
 /* Main Starts */
 
